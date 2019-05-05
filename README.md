@@ -95,6 +95,12 @@ Flutter资源收集，持续更新，欢迎大家提issue更新纠错
 
   [仿掘金](https://github.com/hanks-zyh/juejin_flutter)
 
+  [Flutter仿BOSS直聘](https://github.com/heruijun/flutter_boss)
+
+  [仿开眼视频](https://github.com/wtus/flutter_kaiyan)
+
+  [Flutter高仿好奇心日报](https://github.com/xumaohuai/Flutter-CuriosityApp)
+
 ## 其它
 
   [flutter应用收集 MADE BY THE FLUTTER社区](https://itsallwidgets.com/)
