@@ -29,13 +29,13 @@ Flutter资源收集，持续更新，欢迎大家提issue更新纠错
 
   ### Dart
 
-    [Dart官方主页](https://www.dartlang.org/)
+  [Dart官方主页](https://www.dartlang.org/)
 
-    [Dart Packages](https://pub.dartlang.org/)
+  [Dart Packages](https://pub.dartlang.org/)
 
-    [Dart语言的在线编辑器](https://dartpad.dartlang.org/)
+  [Dart语言的在线编辑器](https://dartpad.dartlang.org/)
 
-    [Dart语言的在线编辑器源码](https://github.com/dart-lang/dart-pad)
+  [Dart语言的在线编辑器源码](https://github.com/dart-lang/dart-pad)
 
 ## 社区
 
