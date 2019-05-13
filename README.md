@@ -101,6 +101,10 @@ Flutter资源收集，持续更新，欢迎大家提issue更新纠错
 
   [Flutter高仿好奇心日报](https://github.com/xumaohuai/Flutter-CuriosityApp)
 
+## Flutter库资源
+
+  [Flutter：loading动画库](https://github.com/TinoGuo/loading_indicator)
+
 ## 其它
 
   [flutter应用收集 MADE BY THE FLUTTER社区](https://itsallwidgets.com/)
