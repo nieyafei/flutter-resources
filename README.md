@@ -2,6 +2,10 @@
 
 Flutter资源收集，持续更新，欢迎大家提issue更新纠错
 
+## 最新
+
+* [Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块](https://github.com/huangruiLearn/flutter_hrlweibo)
+
 ## 基础+资料
 
 * [Flutter](https://flutter.dev/)
